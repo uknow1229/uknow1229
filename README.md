@@ -5,7 +5,6 @@
 - 📝 I regularly write articles on [zenn](https://zenn.dev/goldsaya)
 - 🖥 Every weekend study at [Tamastudy](https://tamastudy.com)
  
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
