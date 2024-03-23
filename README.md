@@ -5,7 +5,7 @@
  
 - 📝 I regularly write articles on [zenn](https://zenn.dev/goldsaya)
  
-- 🖥 Every weekend study at [Tamastudy](https://tamastudy.com)
+
  
 <p align="left">
 </p>
